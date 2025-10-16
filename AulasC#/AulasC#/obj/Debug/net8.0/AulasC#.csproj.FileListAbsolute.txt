@@ -1,0 +1,28 @@
+C:\Users\Rafae\Desktop\C#\AulasC#\AulasC#\bin\Debug\net8.0\AulasC#.exe
+C:\Users\Rafae\Desktop\C#\AulasC#\AulasC#\bin\Debug\net8.0\AulasC#.deps.json
+C:\Users\Rafae\Desktop\C#\AulasC#\AulasC#\bin\Debug\net8.0\AulasC#.runtimeconfig.json
+C:\Users\Rafae\Desktop\C#\AulasC#\AulasC#\bin\Debug\net8.0\AulasC#.dll
+C:\Users\Rafae\Desktop\C#\AulasC#\AulasC#\bin\Debug\net8.0\AulasC#.pdb
+C:\Users\Rafae\Desktop\C#\AulasC#\AulasC#\obj\Debug\net8.0\AulasC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafae\Desktop\C#\AulasC#\AulasC#\obj\Debug\net8.0\AulasC#.AssemblyInfoInputs.cache
+C:\Users\Rafae\Desktop\C#\AulasC#\AulasC#\obj\Debug\net8.0\AulasC#.AssemblyInfo.cs
+C:\Users\Rafae\Desktop\C#\AulasC#\AulasC#\obj\Debug\net8.0\AulasC#.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\Desktop\C#\AulasC#\AulasC#\obj\Debug\net8.0\AulasC#.dll
+C:\Users\Rafae\Desktop\C#\AulasC#\AulasC#\obj\Debug\net8.0\refint\AulasC#.dll
+C:\Users\Rafae\Desktop\C#\AulasC#\AulasC#\obj\Debug\net8.0\AulasC#.pdb
+C:\Users\Rafae\Desktop\C#\AulasC#\AulasC#\obj\Debug\net8.0\AulasC#.genruntimeconfig.cache
+C:\Users\Rafae\Desktop\C#\AulasC#\AulasC#\obj\Debug\net8.0\ref\AulasC#.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulasC#\AulasC#\bin\Debug\net8.0\AulasC#.exe
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulasC#\AulasC#\bin\Debug\net8.0\AulasC#.deps.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulasC#\AulasC#\bin\Debug\net8.0\AulasC#.runtimeconfig.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulasC#\AulasC#\bin\Debug\net8.0\AulasC#.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulasC#\AulasC#\bin\Debug\net8.0\AulasC#.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulasC#\AulasC#\obj\Debug\net8.0\AulasC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulasC#\AulasC#\obj\Debug\net8.0\AulasC#.AssemblyInfoInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulasC#\AulasC#\obj\Debug\net8.0\AulasC#.AssemblyInfo.cs
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulasC#\AulasC#\obj\Debug\net8.0\AulasC#.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulasC#\AulasC#\obj\Debug\net8.0\AulasC#.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulasC#\AulasC#\obj\Debug\net8.0\refint\AulasC#.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulasC#\AulasC#\obj\Debug\net8.0\AulasC#.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulasC#\AulasC#\obj\Debug\net8.0\AulasC#.genruntimeconfig.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulasC#\AulasC#\obj\Debug\net8.0\ref\AulasC#.dll
