@@ -1,0 +1,14 @@
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulaCSharpDNV\AulaCSharpDNV\bin\Debug\net8.0\AulaCSharpDNV.exe
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulaCSharpDNV\AulaCSharpDNV\bin\Debug\net8.0\AulaCSharpDNV.deps.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulaCSharpDNV\AulaCSharpDNV\bin\Debug\net8.0\AulaCSharpDNV.runtimeconfig.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulaCSharpDNV\AulaCSharpDNV\bin\Debug\net8.0\AulaCSharpDNV.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulaCSharpDNV\AulaCSharpDNV\bin\Debug\net8.0\AulaCSharpDNV.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulaCSharpDNV\AulaCSharpDNV\obj\Debug\net8.0\AulaCSharpDNV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulaCSharpDNV\AulaCSharpDNV\obj\Debug\net8.0\AulaCSharpDNV.AssemblyInfoInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulaCSharpDNV\AulaCSharpDNV\obj\Debug\net8.0\AulaCSharpDNV.AssemblyInfo.cs
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulaCSharpDNV\AulaCSharpDNV\obj\Debug\net8.0\AulaCSharpDNV.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulaCSharpDNV\AulaCSharpDNV\obj\Debug\net8.0\AulaCSharpDNV.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulaCSharpDNV\AulaCSharpDNV\obj\Debug\net8.0\refint\AulaCSharpDNV.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulaCSharpDNV\AulaCSharpDNV\obj\Debug\net8.0\AulaCSharpDNV.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulaCSharpDNV\AulaCSharpDNV\obj\Debug\net8.0\AulaCSharpDNV.genruntimeconfig.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AulaCSharpDNV\AulaCSharpDNV\obj\Debug\net8.0\ref\AulaCSharpDNV.dll
