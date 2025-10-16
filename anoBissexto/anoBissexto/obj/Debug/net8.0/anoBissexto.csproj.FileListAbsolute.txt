@@ -1,0 +1,14 @@
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\anoBissexto\anoBissexto\bin\Debug\net8.0\anoBissexto.exe
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\anoBissexto\anoBissexto\bin\Debug\net8.0\anoBissexto.deps.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\anoBissexto\anoBissexto\bin\Debug\net8.0\anoBissexto.runtimeconfig.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\anoBissexto\anoBissexto\bin\Debug\net8.0\anoBissexto.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\anoBissexto\anoBissexto\bin\Debug\net8.0\anoBissexto.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\anoBissexto\anoBissexto\obj\Debug\net8.0\anoBissexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\anoBissexto\anoBissexto\obj\Debug\net8.0\anoBissexto.AssemblyInfoInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\anoBissexto\anoBissexto\obj\Debug\net8.0\anoBissexto.AssemblyInfo.cs
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\anoBissexto\anoBissexto\obj\Debug\net8.0\anoBissexto.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\anoBissexto\anoBissexto\obj\Debug\net8.0\anoBissexto.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\anoBissexto\anoBissexto\obj\Debug\net8.0\refint\anoBissexto.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\anoBissexto\anoBissexto\obj\Debug\net8.0\anoBissexto.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\anoBissexto\anoBissexto\obj\Debug\net8.0\anoBissexto.genruntimeconfig.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\anoBissexto\anoBissexto\obj\Debug\net8.0\ref\anoBissexto.dll
