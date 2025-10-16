@@ -1,0 +1,14 @@
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Desafios C#\Desafios C#\bin\Debug\net8.0\Desafios C#.exe
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Desafios C#\Desafios C#\bin\Debug\net8.0\Desafios C#.deps.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Desafios C#\Desafios C#\bin\Debug\net8.0\Desafios C#.runtimeconfig.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Desafios C#\Desafios C#\bin\Debug\net8.0\Desafios C#.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Desafios C#\Desafios C#\bin\Debug\net8.0\Desafios C#.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Desafios C#\Desafios C#\obj\Debug\net8.0\Desafios C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Desafios C#\Desafios C#\obj\Debug\net8.0\Desafios C#.AssemblyInfoInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Desafios C#\Desafios C#\obj\Debug\net8.0\Desafios C#.AssemblyInfo.cs
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Desafios C#\Desafios C#\obj\Debug\net8.0\Desafios C#.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Desafios C#\Desafios C#\obj\Debug\net8.0\Desafios C#.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Desafios C#\Desafios C#\obj\Debug\net8.0\refint\Desafios C#.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Desafios C#\Desafios C#\obj\Debug\net8.0\Desafios C#.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Desafios C#\Desafios C#\obj\Debug\net8.0\Desafios C#.genruntimeconfig.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Desafios C#\Desafios C#\obj\Debug\net8.0\ref\Desafios C#.dll
