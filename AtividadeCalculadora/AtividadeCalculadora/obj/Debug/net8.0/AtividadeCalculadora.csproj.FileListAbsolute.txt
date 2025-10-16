@@ -1,0 +1,14 @@
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AtividadeCalculadora\AtividadeCalculadora\bin\Debug\net8.0\AtividadeCalculadora.exe
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AtividadeCalculadora\AtividadeCalculadora\bin\Debug\net8.0\AtividadeCalculadora.deps.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AtividadeCalculadora\AtividadeCalculadora\bin\Debug\net8.0\AtividadeCalculadora.runtimeconfig.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AtividadeCalculadora\AtividadeCalculadora\bin\Debug\net8.0\AtividadeCalculadora.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AtividadeCalculadora\AtividadeCalculadora\bin\Debug\net8.0\AtividadeCalculadora.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AtividadeCalculadora\AtividadeCalculadora\obj\Debug\net8.0\AtividadeCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AtividadeCalculadora\AtividadeCalculadora\obj\Debug\net8.0\AtividadeCalculadora.AssemblyInfoInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AtividadeCalculadora\AtividadeCalculadora\obj\Debug\net8.0\AtividadeCalculadora.AssemblyInfo.cs
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AtividadeCalculadora\AtividadeCalculadora\obj\Debug\net8.0\AtividadeCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AtividadeCalculadora\AtividadeCalculadora\obj\Debug\net8.0\AtividadeCalculadora.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AtividadeCalculadora\AtividadeCalculadora\obj\Debug\net8.0\refint\AtividadeCalculadora.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AtividadeCalculadora\AtividadeCalculadora\obj\Debug\net8.0\AtividadeCalculadora.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AtividadeCalculadora\AtividadeCalculadora\obj\Debug\net8.0\AtividadeCalculadora.genruntimeconfig.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\AtividadeCalculadora\AtividadeCalculadora\obj\Debug\net8.0\ref\AtividadeCalculadora.dll
