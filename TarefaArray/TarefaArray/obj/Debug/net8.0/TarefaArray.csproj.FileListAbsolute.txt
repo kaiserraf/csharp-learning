@@ -1,0 +1,14 @@
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\TarefaArray\TarefaArray\bin\Debug\net8.0\TarefaArray.exe
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\TarefaArray\TarefaArray\bin\Debug\net8.0\TarefaArray.deps.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\TarefaArray\TarefaArray\bin\Debug\net8.0\TarefaArray.runtimeconfig.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\TarefaArray\TarefaArray\bin\Debug\net8.0\TarefaArray.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\TarefaArray\TarefaArray\bin\Debug\net8.0\TarefaArray.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\TarefaArray\TarefaArray\obj\Debug\net8.0\TarefaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\TarefaArray\TarefaArray\obj\Debug\net8.0\TarefaArray.AssemblyInfoInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\TarefaArray\TarefaArray\obj\Debug\net8.0\TarefaArray.AssemblyInfo.cs
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\TarefaArray\TarefaArray\obj\Debug\net8.0\TarefaArray.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\TarefaArray\TarefaArray\obj\Debug\net8.0\TarefaArray.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\TarefaArray\TarefaArray\obj\Debug\net8.0\refint\TarefaArray.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\TarefaArray\TarefaArray\obj\Debug\net8.0\TarefaArray.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\TarefaArray\TarefaArray\obj\Debug\net8.0\TarefaArray.genruntimeconfig.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\TarefaArray\TarefaArray\obj\Debug\net8.0\ref\TarefaArray.dll
