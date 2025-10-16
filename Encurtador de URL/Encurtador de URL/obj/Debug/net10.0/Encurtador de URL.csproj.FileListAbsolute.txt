@@ -1,0 +1,14 @@
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Encurtador de URL\Encurtador de URL\bin\Debug\net10.0\Encurtador de URL.exe
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Encurtador de URL\Encurtador de URL\bin\Debug\net10.0\Encurtador de URL.deps.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Encurtador de URL\Encurtador de URL\bin\Debug\net10.0\Encurtador de URL.runtimeconfig.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Encurtador de URL\Encurtador de URL\bin\Debug\net10.0\Encurtador de URL.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Encurtador de URL\Encurtador de URL\bin\Debug\net10.0\Encurtador de URL.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Encurtador de URL\Encurtador de URL\obj\Debug\net10.0\Encurtador de URL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Encurtador de URL\Encurtador de URL\obj\Debug\net10.0\Encurtador de URL.AssemblyInfoInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Encurtador de URL\Encurtador de URL\obj\Debug\net10.0\Encurtador de URL.AssemblyInfo.cs
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Encurtador de URL\Encurtador de URL\obj\Debug\net10.0\Encurtador de URL.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Encurtador de URL\Encurtador de URL\obj\Debug\net10.0\Encurtador de URL.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Encurtador de URL\Encurtador de URL\obj\Debug\net10.0\refint\Encurtador de URL.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Encurtador de URL\Encurtador de URL\obj\Debug\net10.0\Encurtador de URL.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Encurtador de URL\Encurtador de URL\obj\Debug\net10.0\Encurtador de URL.genruntimeconfig.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Encurtador de URL\Encurtador de URL\obj\Debug\net10.0\ref\Encurtador de URL.dll
