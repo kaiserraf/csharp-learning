@@ -1,0 +1,14 @@
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\ProvaC#\ProvaC#\bin\Debug\net8.0\ProvaC#.exe
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\ProvaC#\ProvaC#\bin\Debug\net8.0\ProvaC#.deps.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\ProvaC#\ProvaC#\bin\Debug\net8.0\ProvaC#.runtimeconfig.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\ProvaC#\ProvaC#\bin\Debug\net8.0\ProvaC#.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\ProvaC#\ProvaC#\bin\Debug\net8.0\ProvaC#.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\ProvaC#\ProvaC#\obj\Debug\net8.0\ProvaC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\ProvaC#\ProvaC#\obj\Debug\net8.0\ProvaC#.AssemblyInfoInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\ProvaC#\ProvaC#\obj\Debug\net8.0\ProvaC#.AssemblyInfo.cs
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\ProvaC#\ProvaC#\obj\Debug\net8.0\ProvaC#.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\ProvaC#\ProvaC#\obj\Debug\net8.0\ProvaC#.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\ProvaC#\ProvaC#\obj\Debug\net8.0\refint\ProvaC#.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\ProvaC#\ProvaC#\obj\Debug\net8.0\ProvaC#.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\ProvaC#\ProvaC#\obj\Debug\net8.0\ProvaC#.genruntimeconfig.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\ProvaC#\ProvaC#\obj\Debug\net8.0\ref\ProvaC#.dll
