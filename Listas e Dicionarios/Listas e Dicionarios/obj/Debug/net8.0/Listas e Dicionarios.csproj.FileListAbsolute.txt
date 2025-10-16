@@ -1,0 +1,14 @@
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Listas e Dicionarios\Listas e Dicionarios\bin\Debug\net8.0\Listas e Dicionarios.exe
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Listas e Dicionarios\Listas e Dicionarios\bin\Debug\net8.0\Listas e Dicionarios.deps.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Listas e Dicionarios\Listas e Dicionarios\bin\Debug\net8.0\Listas e Dicionarios.runtimeconfig.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Listas e Dicionarios\Listas e Dicionarios\bin\Debug\net8.0\Listas e Dicionarios.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Listas e Dicionarios\Listas e Dicionarios\bin\Debug\net8.0\Listas e Dicionarios.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Listas e Dicionarios\Listas e Dicionarios\obj\Debug\net8.0\Listas e Dicionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Listas e Dicionarios\Listas e Dicionarios\obj\Debug\net8.0\Listas e Dicionarios.AssemblyInfoInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Listas e Dicionarios\Listas e Dicionarios\obj\Debug\net8.0\Listas e Dicionarios.AssemblyInfo.cs
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Listas e Dicionarios\Listas e Dicionarios\obj\Debug\net8.0\Listas e Dicionarios.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Listas e Dicionarios\Listas e Dicionarios\obj\Debug\net8.0\Listas e Dicionarios.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Listas e Dicionarios\Listas e Dicionarios\obj\Debug\net8.0\refint\Listas e Dicionarios.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Listas e Dicionarios\Listas e Dicionarios\obj\Debug\net8.0\Listas e Dicionarios.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Listas e Dicionarios\Listas e Dicionarios\obj\Debug\net8.0\Listas e Dicionarios.genruntimeconfig.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Listas e Dicionarios\Listas e Dicionarios\obj\Debug\net8.0\ref\Listas e Dicionarios.dll
