@@ -1,0 +1,14 @@
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Tratamento de Erros\Tratamento de Erros\obj\Debug\net8.0\Tratamento de Erros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Tratamento de Erros\Tratamento de Erros\obj\Debug\net8.0\Tratamento de Erros.AssemblyInfoInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Tratamento de Erros\Tratamento de Erros\obj\Debug\net8.0\Tratamento de Erros.AssemblyInfo.cs
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Tratamento de Erros\Tratamento de Erros\obj\Debug\net8.0\Tratamento de Erros.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Tratamento de Erros\Tratamento de Erros\bin\Debug\net8.0\Tratamento de Erros.exe
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Tratamento de Erros\Tratamento de Erros\bin\Debug\net8.0\Tratamento de Erros.deps.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Tratamento de Erros\Tratamento de Erros\bin\Debug\net8.0\Tratamento de Erros.runtimeconfig.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Tratamento de Erros\Tratamento de Erros\bin\Debug\net8.0\Tratamento de Erros.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Tratamento de Erros\Tratamento de Erros\bin\Debug\net8.0\Tratamento de Erros.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Tratamento de Erros\Tratamento de Erros\obj\Debug\net8.0\Tratamento de Erros.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Tratamento de Erros\Tratamento de Erros\obj\Debug\net8.0\refint\Tratamento de Erros.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Tratamento de Erros\Tratamento de Erros\obj\Debug\net8.0\Tratamento de Erros.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Tratamento de Erros\Tratamento de Erros\obj\Debug\net8.0\Tratamento de Erros.genruntimeconfig.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Tratamento de Erros\Tratamento de Erros\obj\Debug\net8.0\ref\Tratamento de Erros.dll
