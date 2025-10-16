@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Criacao e execucao de arquivos/1.0.0": {
+        "runtime": {
+          "Criacao e execucao de arquivos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Criacao e execucao de arquivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

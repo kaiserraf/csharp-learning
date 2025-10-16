@@ -1,0 +1,14 @@
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Execucao e manipulação de arquivos\Criacao e execucao de arquivos\bin\Debug\net10.0\Criacao e execucao de arquivos.exe
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Execucao e manipulação de arquivos\Criacao e execucao de arquivos\bin\Debug\net10.0\Criacao e execucao de arquivos.deps.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Execucao e manipulação de arquivos\Criacao e execucao de arquivos\bin\Debug\net10.0\Criacao e execucao de arquivos.runtimeconfig.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Execucao e manipulação de arquivos\Criacao e execucao de arquivos\bin\Debug\net10.0\Criacao e execucao de arquivos.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Execucao e manipulação de arquivos\Criacao e execucao de arquivos\bin\Debug\net10.0\Criacao e execucao de arquivos.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Execucao e manipulação de arquivos\Criacao e execucao de arquivos\obj\Debug\net10.0\Criacao e execucao de arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Execucao e manipulação de arquivos\Criacao e execucao de arquivos\obj\Debug\net10.0\Criacao e execucao de arquivos.AssemblyInfoInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Execucao e manipulação de arquivos\Criacao e execucao de arquivos\obj\Debug\net10.0\Criacao e execucao de arquivos.AssemblyInfo.cs
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Execucao e manipulação de arquivos\Criacao e execucao de arquivos\obj\Debug\net10.0\Criacao e execucao de arquivos.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Execucao e manipulação de arquivos\Criacao e execucao de arquivos\obj\Debug\net10.0\Criacao e execucao de arquivos.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Execucao e manipulação de arquivos\Criacao e execucao de arquivos\obj\Debug\net10.0\refint\Criacao e execucao de arquivos.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Execucao e manipulação de arquivos\Criacao e execucao de arquivos\obj\Debug\net10.0\Criacao e execucao de arquivos.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Execucao e manipulação de arquivos\Criacao e execucao de arquivos\obj\Debug\net10.0\Criacao e execucao de arquivos.genruntimeconfig.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Execucao e manipulação de arquivos\Criacao e execucao de arquivos\obj\Debug\net10.0\ref\Criacao e execucao de arquivos.dll
