@@ -1,0 +1,14 @@
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Arquivos CSV\Arquivos CSV\bin\Debug\net10.0\Arquivos CSV.exe
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Arquivos CSV\Arquivos CSV\bin\Debug\net10.0\Arquivos CSV.deps.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Arquivos CSV\Arquivos CSV\bin\Debug\net10.0\Arquivos CSV.runtimeconfig.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Arquivos CSV\Arquivos CSV\bin\Debug\net10.0\Arquivos CSV.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Arquivos CSV\Arquivos CSV\bin\Debug\net10.0\Arquivos CSV.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Arquivos CSV\Arquivos CSV\obj\Debug\net10.0\Arquivos CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Arquivos CSV\Arquivos CSV\obj\Debug\net10.0\Arquivos CSV.AssemblyInfoInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Arquivos CSV\Arquivos CSV\obj\Debug\net10.0\Arquivos CSV.AssemblyInfo.cs
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Arquivos CSV\Arquivos CSV\obj\Debug\net10.0\Arquivos CSV.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Arquivos CSV\Arquivos CSV\obj\Debug\net10.0\Arquivos CSV.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Arquivos CSV\Arquivos CSV\obj\Debug\net10.0\refint\Arquivos CSV.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Arquivos CSV\Arquivos CSV\obj\Debug\net10.0\Arquivos CSV.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Arquivos CSV\Arquivos CSV\obj\Debug\net10.0\Arquivos CSV.genruntimeconfig.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Arquivos CSV\Arquivos CSV\obj\Debug\net10.0\ref\Arquivos CSV.dll
