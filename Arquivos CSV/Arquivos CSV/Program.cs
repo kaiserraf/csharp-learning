@@ -1,5 +1,6 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Globalization;
 namespace arquivocsv
 {
     class Program
@@ -11,7 +12,7 @@ namespace arquivocsv
             var arquivoEntrada = @"C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Arquivos CSV\alunos.csv";
             var arquivoSaida = @"C:\Users\Rafae\OneDrive\Área de Trabalho\C#\Arquivos CSV\alunos_2.csv";
 
-            var linhas = LerArquivo(arquivoEntrada).Skip(1);
+            var linhas = LerArquivo(arquivoEntrada);
             /*
             var linhaFiltrada = new List<string>();
             int i = 0;
@@ -77,22 +78,28 @@ namespace arquivocsv
         {
             try
             {
-                if (File.Exists(arquivoEntrada))
+                String[] linhas = File.ReadAllLines(arquivoEntrada);
+                foreach (var linha in linhas.Skip(1))
                 {
-                    String[] linhas = File.ReadAllLines(arquivoEntrada);
-                    foreach (var linha in linhas)
+                    String[] colunas = linha.Split(";"); // quebra a linha
+                    foreach (var coluna in colunas)
                     {
-                        String[] colunas = linha.Split(";"); // quebra a linha
-                        Console.WriteLine($"{colunas[1]} | {colunas[2]}"); // mostra só nomes e nota 1 bimestre
-                        // foreach (var coluna in colunas)
-                        // {
-                        //     Console.Write($"{coluna} ");
-                        // }
-                        // Console.WriteLine("");
-
-
+                        Console.Write($"{coluna} |");
                     }
+                    
+                    Console.WriteLine("");
+
+                    //atividade de sala - média
+
+                    float.TryParse(colunas[2], out float nota1);
+                    float.TryParse(colunas[3], out float nota2);
+                    float media = (nota1 + nota2) / 2;
+
+                    Console.WriteLine($"{colunas[1]} | {colunas[2]} | {colunas[3]} | {media}");
+
+
                 }
+                
             }
             catch (FileNotFoundException FNFE)
             {
