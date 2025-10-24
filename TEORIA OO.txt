@@ -1,0 +1,74 @@
+Definição: A Orientação a Objetos (OO) é um paradigma da programação que organiza o software em unidades chamadas de objetos
+
+Alem da Orientação a Objetos utilizada fortemente em linguagens como C# e Java, podemos nos deparar com outros paradigmas:
+    * Funcional - Haskell, Lisp e Clojure;
+    * Lógico - Prolog e Datalog;
+    * Declarativo - SQL, HTML e CSS;
+    * Imperativo - C e Pascal
+    * Orientado a Eventos - Visual Basic, JavaScript e Delphi
+
+Caracteristicas:
+    * Reutilização do código: A OO promove a Reutilização através da criação de classes e objetos
+    * Facilidade da Manutenção: Melhora a legibilidade e entendimento do código, facilitando a detecção  e correção de erros
+    * Encapsulamento: Permite o acesso controlado a dados e funcionalidades através de interfaces bem definidas
+
+Pilares:
+    * Abstração: Processo de identificar caracteristicas essenciais de um objeto ou entidade do mundo real e representá-las
+    de forma simplificada no sistema;
+    * Encapsulamento: é o principio de esconder os detalhes internos de como um objeto funciona
+    * Herança: permite que uma classe herde caracteristicas e comportamentos de outra classe
+
+* Classes: Uma classe basicamente é um molde para criar.
+* Atributos: Atributos são as caracteristicas contidas nas classes.
+* Métodos: São funçoes/ações que um objeto pode executar
+    Métodos sem retorno: void
+        public void metodo(){
+            Console.WriteLine("Hello World!");
+        }
+    Métodos com retorno:
+        public int soma(){
+            return 5+5;
+        }
+
+* Objetos: são criados a partir das classes(moldes). através dos objetos, podemos ter acesso aos atributos e métodos das classes
+    Classe carro:
+        Objeto: Ferrari
+        Objeto: Fusca
+        Objeto: Peugeot
+
+* Encapsulamento: um dos pilares da OO, através dele é possivel trabalhar com a visibilidade de atributos e métodos. Isso significa
+que uma classe encapsula (ou esconde) seus detalhes internos dos usuários externos da classe, fornecendo uma interface pública bem
+definida para interagir com esses detalhes internos.
+    - Ocultação de informações: os detalhes internos da implementação de uma classe são ocultados do código externo
+    - Segurança: Ajudando a manter a integridade dos dados, fazendo com que não seja possivel acessar ou alterar valores
+    - Facilidade de Manutenção: Alterações internas na implementação da classe podem ser feitas sem afetar o código que utiliza a classe
+
+    * Modificadores de acesso: maneiras que temos para trabalhar com o encapsulamento
+        - public: atributos e métodos visíveis para qualquer classe
+        - private: atributos e métodos visiveis apenas na classe onde são criados
+        - protected: atributos e métodos disponiveis apenas na classe onde são criados ou herdados
+        - internal: atributos e métodos dentro do mesmo assembly
+        - protected internal: Junção dos modificadores internal e protected
+
+* Get e Set: Usado para efetuar acesso aos atributos que estejam privados
+    Get: Extrair valores de atributos privados
+    Set: atribuir valores nos atributos privados
+
+* Construtor: metodo especial que é chamado automaticamente quando um objeto de uma classe é criado.
+    * ele é usado para inicializar o estado inicial do objeto
+    ** Importante: O Construtor tem o mesmo nome da classe
+
+    -  Sobrecarga: Essa é uma caracteristica interessante, em uma classe podemos ter mais de um Construtor
+
+* Atributos e Metodos Estaticos: termos acesso aos atributos e aos metodos sem a nescessidade de instanciar um obj.
+    - Quando utilizar:
+        * Dados Compartilhados: voce precisa de um valor que seja Compartilhado entre todas as instancias da classe
+        * Constantes: não mudam durante a execução do programa são frequentemente implementadas como atributos estaticos
+        * Padrões de Projeto: métodos estáticos são frequentemente usados em padrões de projeto como Sington, Factory Method, etc...
+    
+* Herança: conceito fundamental de OO, que permite que uma classe herde características (atributos e métodos) de outra
+classe (conhecida como classe base ou superclase).
+    - Quando utilizar:
+        * Reutilização de código: caso o desenvolvedor se depare com a reutilização de atributos e métodos
+        * Estrutura genérica: Quando há uma classe base que pode ser utilizada como base para complementar outras classes
+        * Polimorfismo: affs ele vai explicar depois
